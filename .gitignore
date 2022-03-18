@@ -12,3 +12,5 @@ terraform
 
 account.json
 .vscode
+
+*.lock.hcl
